@@ -27,14 +27,3 @@ To create a **private second brain** either:
 - After deploying your Notes site above, [password protect your online second brain](https://docs.netlify.com/visitor-access/password-protection/) and configure your GitHub repo as **private**
 - [Download this template](https://github.com/wowchemy/hugo-notes-theme) and [run the tool locally](https://wowchemy.com/docs/getting-started/install-hugo-extended/)
 
-## Example notebook
-
-{{< cta cta_text="👉 Check out the Machine Learning notebook" cta_link="machine-learning" >}}
-
-#Generate Wowchemy CMS
-type: wowchemycms
-private: true
-outputs:
-  - wowchemycms_config
-  - HTML
-
