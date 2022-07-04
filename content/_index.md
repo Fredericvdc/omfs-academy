@@ -21,4 +21,10 @@ Welkom op OMFS Academy!
 - [Statistiek in R](https://fredericvdc.github.io/rchuncks/)
 
 ## Voor ASO's
+1. [Start als ASO](startaso.md)
+2. [Het stagerapport: in te dienen na elk jaar](stagerapport.md)
+3. [Erkenning aanvragen na je tweedejaars examen](erkenning.md)
+4. [Als ASO in Nederland: wat te doen](asoinnl.md)
+5. [Examenvragen MKA - 2e jaar](examenvragen.word)
+
 
