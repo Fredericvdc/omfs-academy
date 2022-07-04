@@ -1,10 +1,10 @@
 ---
-title: ✍️ Notes
+title: OMFS Academy
 type: book # Do not modify.
 toc: false
 
 cover:
-  image: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
+  image: covers/cover.jpg
   caption: NASA
 ---
 
