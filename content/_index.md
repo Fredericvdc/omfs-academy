@@ -8,15 +8,13 @@ cover:
   caption: OMFS Academy
 ---
 
-Welkom op OMFS Academy!
-
 # Gidsen
-[📘Compendium](https://frederic-van-der-cruyssen.gitbook.io/compendium/)
-[🏃‍♀️Snelteksten](https://frederic-van-der-cruyssen.gitbook.io/snelteksten/)
-[💊Medicaties](https://frederic-van-der-cruyssen.gitbook.io/medicaties/)
-[🧪Labo aanvragen](https://frederic-van-der-cruyssen.gitbook.io/labo-aanvragen/)
-[👩‍🎓Voor ASO’s](https://frederic-van-der-cruyssen.gitbook.io/voor-asos/)
-[🔬Onderzoek & Statistiek](https://frederic-van-der-cruyssen.gitbook.io/onderzoek-and-statistiek/)
+[📘Compendium](https://frederic-van-der-cruyssen.gitbook.io/compendium/)  
+[🏃‍♀️Snelteksten](https://frederic-van-der-cruyssen.gitbook.io/snelteksten/)  
+[💊Medicaties](https://frederic-van-der-cruyssen.gitbook.io/medicaties/)  
+[🧪Labo aanvragen](https://frederic-van-der-cruyssen.gitbook.io/labo-aanvragen/)  
+[👩‍🎓Voor ASO’s](https://frederic-van-der-cruyssen.gitbook.io/voor-asos/)  
+[🔬Onderzoek & Statistiek](https://frederic-van-der-cruyssen.gitbook.io/onderzoek-and-statistiek/)  
 
 # Handige links
 - [Farmacotherapeutisch Kompas](https://www.farmacotherapeutischkompas.nl)
