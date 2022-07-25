@@ -1,5 +1,5 @@
 ---
-title: 💀 OMFS Academy
+title: OMFS Academy
 type: book # Do not modify.
 toc: false
 
